@@ -2,7 +2,7 @@
 
 Resource Editor 2.1 is written in 4th Dimension version 6.7, and it includes the uncompiled source as well as a compiled version. It can be used with newer versions of 4th Dimension and has been tested through 4D 2004. Resource Editor v2.1 makes it possible to do common resource file editing and creation on the Windows platform. No Macintosh is required.
 
-Orchard Software does not provide technical support for this program, but we do appreciate hearing about any problems you discover. To report a problem, send an email to [Jeffrey Kain](mailto:jkain@orchardsoft.com).
+Orchard Software does not provide technical support for this program, but we do appreciate hearing about any problems you discover. To report a problem, send an email to [Debbie Schilling](mailto:dschilling@orchardsoft.com).
 
 ## Features: ##
 
